@@ -1,0 +1,66 @@
+[
+    {
+      "id": 0,
+      "startTime": "9:00 AM",
+      "endTime": "10:00 AM",
+      "booked": false,
+      "name": null,
+      "contact": null
+    },
+    {
+      "id": 1,
+      "startTime": "10:00 AM",
+      "endTime": "11:00 AM",
+      "booked": false,
+      "name": null,
+      "contact": null
+    },
+    {
+      "id": 2,
+      "startTime": "11:00 AM",
+      "endTime": "10:00 AM",
+      "booked": false,
+      "name": null,
+      "contact": null
+    },
+    {
+      "id": 3,
+      "startTime": "12:00 PM",
+      "endTime": "1:00 PM",
+      "booked": false,
+      "name": null,
+      "contact": null
+    },
+    {
+      "id": 4,
+      "startTime": "1:00 PM",
+      "endTime": "2:00 PM",
+      "booked": false,
+      "name": null,
+      "contact": null
+    },
+    {
+      "id": 5,
+      "startTime": "2:00 PM",
+      "endTime": "3:00 PM",
+      "booked": false,
+      "name": null,
+      "contact": null
+    },
+    {
+      "id": 6,
+      "startTime": "3:00 PM",
+      "endTime": "4:00 PM",
+      "booked": false,
+      "name": null,
+      "contact": null
+    },
+    {
+      "id": 7,
+      "startTime": "4:00 PM",
+      "endTime": "5:00 PM",
+      "booked": false,
+      "name": null,
+      "contact": null
+    }
+  ]

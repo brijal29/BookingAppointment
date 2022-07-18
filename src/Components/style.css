@@ -1,0 +1,50 @@
+.red-text {
+    color: var(--red);
+  }
+body{
+  background-image: url("./bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #cccccc;
+  font-family: "Times New Roman", Times, serif !important;
+ 
+}
+.scheduleBtn{
+  text-align: center;
+  background-color: #00bedf;
+  border-color: #00bedf;
+  margin-top: 15px;
+
+}
+.scheduleBtn:hover,.scheduleBtn:focus{
+  text-align: center;
+  background-color: #00bedf;
+  border-color: #00bedf;
+
+}
+
+.appointment-card{
+  background-color: #bae0dee6;
+  border-radius: 20px;
+}
+
+.scheduleBtn-booked{
+  text-align: center;
+  background-color: #df2500;
+  border-color: #df2500;
+  margin-top:15px;
+
+}
+.scheduleBtn-booked:hover,.scheduleBtn-booked:focus{
+  text-align: center;
+  background-color: #df2500;
+  border-color: #df2500;
+
+}
+.appointment-booked-card{
+  background-color: #e0babae6;
+  border-radius: 20px;
+}
+
+.modal.fade .modal-dialog.modal-dialog-zoom {-webkit-transform: translate(0,0)scale(.5);transform: translate(0,0)scale(.5);}
+.modal.show .modal-dialog.modal-dialog-zoom {-webkit-transform: translate(0,0)scale(1);transform: translate(0,0)scale(1);}
